@@ -12,12 +12,12 @@ go install github.com/gofulljs/goserve
 
 ### serve resource
 
-current example
+current docs
 
 gopher2 will show
 
 ```sh
-goserve example
+goserve docs
 # also use serve via npm install -g serve
 # serve example
 ```
@@ -25,5 +25,5 @@ goserve example
 gopher show
 
 ```sh
-goserve example -p goserve
+goserve docs -p goserve
 ```
