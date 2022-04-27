@@ -27,3 +27,5 @@ gopher show
 ```sh
 goserve docs -p goserve
 ```
+
+this demo at https://gofulljs.github.io/goserve/
