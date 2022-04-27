@@ -19,7 +19,7 @@ gopher2 will show
 ```sh
 goserve docs
 # also use serve via npm install -g serve
-# serve example
+# serve docs
 ```
 
 gopher show
